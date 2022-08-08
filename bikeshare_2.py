@@ -197,6 +197,7 @@ def display_data(df):
             else:
                 print("Invalid input. Please try again")
 
+#Put all fuction above into main()
 def main():
     while True:
         city, month, day = get_filters()
