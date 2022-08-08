@@ -1,7 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-08 Aug 2022
+09 Aug 2022
 
 ### Project Title
 Bikeshare project
@@ -12,6 +12,7 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 2. Popular station trip
 3. Trip duration
 4. User information
+
 ### Files used
 chicago.csv
 new_york_city.csv
