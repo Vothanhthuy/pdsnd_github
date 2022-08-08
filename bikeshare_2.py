@@ -182,7 +182,7 @@ def display_data(df):
                 print(data)
             break
         else:
-            print("Invalid input. Please try again")
+            print("Invalid input. Please try again 😇")
 
     if choice_1 == "yes":
         while True:
@@ -195,8 +195,9 @@ def display_data(df):
             elif choice_2 == "no":
                 break
             else:
-                print("Invalid input. Please try again")
+                print("Invalid input. Please try again 😇")
 
+#Put all fuction above into main()
 def main():
     while True:
         city, month, day = get_filters()
