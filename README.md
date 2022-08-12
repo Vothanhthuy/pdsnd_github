@@ -7,7 +7,13 @@
 12 Aug 2022
 
 ### Project Title
+<<<<<<< HEAD
 Bikeshare project
+||||||| 3fe39eb
+Replace the Project Title
+=======
+Bike share project 
+>>>>>>> refactoring
 
 ### Description
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, I'll write code to provide the following information:
