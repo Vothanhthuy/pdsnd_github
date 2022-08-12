@@ -7,7 +7,7 @@
 Bikeshare project
 
 ### Description
-You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
+You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, I'll write code to provide the following information:
 1. Popular time of travel
 2. Popular station trip
 3. Trip duration
